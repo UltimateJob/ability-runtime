@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.DS_Store
+# First-party outputs are built from the matching source tags, not redistributed here.
+/AbilityFramework
+ability_py-*.whl
+ability_scaffold-*.whl
+*.lfs-orig
